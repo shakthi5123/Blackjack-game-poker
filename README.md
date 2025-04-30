@@ -1,1 +1,7 @@
 # Blackjack-game-poker
+
+This Blackjack game is a simple, browser-based card game built using HTML, CSS, and JavaScript. It allows a player to simulate the experience of playing Blackjack by drawing cards in an attempt to reach a total sum of 21 without going over. The game includes essential features such as a dynamic interface that updates the current cards, the sum, and game messages based on player actions. The user interface is styled with a casino-like background image and central alignment to give a clean and engaging look. It includes two main controls: a “START GAME” button to begin the game and a “NEW CARD” button to draw additional cards. The logic is handled entirely with vanilla JavaScript, including random card generation and Blackjack rules like assigning face cards a value of 10 and Ace a value of 11.
+
+The game is also slightly responsive. It uses large, readable fonts, centralized layout, and touch-friendly buttons, making it functional on both desktop and mobile devices. While it is not fully optimized with media queries or advanced responsive techniques, the layout adjusts well enough to offer a usable experience across different screen sizes. Overall, it’s a great beginner-friendly project demonstrating core web development skills, interactive JavaScript programming, and basic responsive design principles.
+
+Would you like to make this more professional-looking for your portfolio or internship submission?
